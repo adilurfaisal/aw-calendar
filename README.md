@@ -1,4 +1,6 @@
-<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/aw-calendar-logo-56px.png?style=centerme"></a>
+<p align="center"><a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://raw.githubusercontent.com/adilurfaisal/aw-calendar/master/assets/aw-calendar-logo-56px.png"></a></p>
+
+<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://komarev.com/ghpvc/?username=adilurfaisal&color=dc143c"></a>
 
 # AW Calendar
 
@@ -15,7 +17,7 @@ Awesome event ajax calendar for any responsive website. You can use multiple ele
 * +15 Events Listener
 * Demo Incudes
 
-<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/demo-1.gif"></a>
+<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://raw.githubusercontent.com/adilurfaisal/aw-calendar/master/assets/demo-1.gif"></a>
 
 ## How to use
 ```html
@@ -57,7 +59,7 @@ let awcal = new awCalendar(".aw-calendar", {
 awcal.render();
 </script>
 ```
-<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/screenshot-advance.JPG"></a>
+<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://raw.githubusercontent.com/adilurfaisal/aw-calendar/master/assets/screenshot-advance.JPG"></a>
 
 ## Methods
 <code>setData, dateFormat, setToday, getToday, isOffday, isToday, isEvent, setMonth, setYear, getMonth, getYear, getDate, evtAdd, evtDelete, evtLoad</code>
