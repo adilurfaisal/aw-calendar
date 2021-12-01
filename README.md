@@ -112,9 +112,7 @@ awcal.on("EventUpdate, EventAdd, EventDelete", function(obj){
 ```
 
 ##Donate
-<p align="center">
-<a target="_blank" href="https://www.paypal.com/donate?hosted_button_id=2ZTMGY2F3C8GW"><img src="https://www.paypal.com/en_CY/i/scr/pixel.gif"></a>
-</p>
+<a target="_blank" href="https://www.paypal.com/donate?hosted_button_id=2ZTMGY2F3C8GW"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
