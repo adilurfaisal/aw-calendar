@@ -1,6 +1,4 @@
-![AW Calendar Demo 1](https://awcalendar.butechltd.com/github/aw-calendar-logo-56px.png?style=centerme)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/aw-calendar-logo-56px.png?style=centerme"></a>
 
 # AW Calendar
 
@@ -16,7 +14,7 @@ Awesome event ajax calendar for any responsive website. You can use multiple ele
 * +15 Events Listener
 * Demo Incudes
 
-![AW Calendar Demo 1](https://awcalendar.butechltd.com/github/demo-1.gif)
+<a href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/demo-1.gif"></a>
 
 ## How to use
 ```html
