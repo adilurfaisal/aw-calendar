@@ -1,4 +1,4 @@
-<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/aw-calendar-logo-56px.png?style=centerme"></a>
+<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://github.com/adilurfaisal/aw-calendar/assets/aw-calendar-logo-56px.png"></a>
 
 # AW Calendar
 
