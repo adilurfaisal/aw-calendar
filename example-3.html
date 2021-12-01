@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Use this element in body -->
+        <div class="aw-calendar"></div>
+
+    </div>
+
+    <!-- Installation Library -->
+    <script src="./0.0.1/awcalendar.min.js"></script>
+    <script>
+        // Use this script end of the body
+        let today = new Date();
+        let awcal = new awCalendar(".aw-calendar", {
+             eventModal: true
+        });
+        awcal.render();
+        setTimeout(function(){
+           awcal.setData("offDays", [0]);
+           awcal.setToday("2021-10-01");
+           awcal.setYear(2021);
+           awcal.setMonth(9);
+           awcal.render();
+           awcal.evtAdd({date:"2021-10-05", title:"AW Calendar Init", description:"First day for AW Calendar"});
+        }, 5000);
+    </script>
+
+    <style>
+        .aw-calendar{
+            height: 60vh;
+            width: 60%;
+            margin: 50px auto;
+        }
+    </style>
+    
+</body>
+</html>
