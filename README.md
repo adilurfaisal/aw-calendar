@@ -1,4 +1,6 @@
-<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://raw.githubusercontent.com/adilurfaisal/aw-calendar/master/assets/aw-calendar-logo-56px.png"></a>
+<p align="center"><a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://raw.githubusercontent.com/adilurfaisal/aw-calendar/master/assets/aw-calendar-logo-56px.png"></a></p>
+
+<a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://komarev.com/ghpvc/?username=adilurfaisal&color=dc143c"></a>
 
 # AW Calendar
 
