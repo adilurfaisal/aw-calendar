@@ -33,6 +33,7 @@ awcal.render();
 </script>
 ```
 <a target="_blank" href="https://awcalendar.butechltd.com"><img src="https://awcalendar.butechltd.com/github/screenshot-basic.JPG"></a>
+
 These are default options for aw-calendar. You can also use advanced options.
 
 ## Advance Options
