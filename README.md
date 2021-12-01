@@ -111,7 +111,7 @@ awcal.on("EventUpdate, EventAdd, EventDelete", function(obj){
 </script>
 ```
 
-##Donate
+## Donate
 <p align="center">
 <a target="_blank" href="https://www.paypal.com/donate?hosted_button_id=2ZTMGY2F3C8GW"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
 </p>
