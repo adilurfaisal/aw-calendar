@@ -193,6 +193,14 @@ class awCalendar extends HTMLElement{
     }
 
     /**
+     * Get Calendar Day  
+     * @return {Number}
+    */    
+    getDay = () => {
+        return this.date.getDay();
+    }
+
+    /**
      * Get Calendar Month  
      * @return {Number}
     */    
