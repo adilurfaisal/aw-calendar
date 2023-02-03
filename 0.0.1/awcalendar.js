@@ -21,6 +21,16 @@ class awCalendar extends HTMLElement{
                 this.setData(v, opt[v]);
             })
         }
+
+
+        console.log('%cAW Calendar', `
+				background: white;
+				border: 3px solid red;
+				color: red;
+				font-size: 40px;
+				margin: 10px;
+				padding: 20px;
+                `);
     }
 
     /**
